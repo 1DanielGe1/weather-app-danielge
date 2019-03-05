@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">WeatherAppDesignByDanielGe</string>
+    <string name="location">Chongqing</string>
+    <string name="photo">photo</string>
+
+    <string name="def">---</string>
+    <string name="not">You have 1 appointment</string>
+    <string name="calendar">Go to Calendar</string>
+    <string name="tem">°C</string>
+    <string name="today">Sunday</string>
+    <string name="day1">Monday</string>
+    <string name="day2">Tuesday</string>
+    <string name="day3">Wednesday</string>
+    <string name="day4">Thursday</string>
+    <string name="day5">Friday</string>
+    <string name="number">2</string>
+    <string name="number2">18</string>
+    <string name="date">03/03/2018</string>
+</resources>
